@@ -11,7 +11,7 @@
                 <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram" /> 
             </a>
         </div>
-         <b>About me </b>
+         <h4>About me </h4>
         <p>
             <li>:writing_hand: I like writing code</li>
             <li>:books: I am constantly learning new things</li>
@@ -19,5 +19,13 @@
             <li>:earth_americas: I speak: Turkmen,Russian,English</li>
             <li>Originally from Turkmenistan :turkmenistan:, now based in Belarus :belarus: </li>
         </p>
+        <h4>Languages and Tools:</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>&nbsp;
     </body>
 </html>
