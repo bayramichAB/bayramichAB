@@ -17,7 +17,7 @@
             <li>:books: I am constantly learning new things</li>
             <li>:bookmark_tabs: Checkout my resume</li>
             <li>:earth_americas: I speak: Turkmen,Russian,English</li>
-            <li>Originally from Turkmenistan (:turkmenistan:), now based in Belarus (:belarus:) </li>
+            <li>Originally from Turkmenistan :turkmenistan:, now based in Belarus :belarus: </li>
         </p>
     </body>
 </html>
