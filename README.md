@@ -11,7 +11,9 @@
                 <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram" /> 
             </a>
         </div>
-        ### About me
-        :muscle:I like to write code
+         About me
+        <p>
+            :muscle:I like to write code
+        </p>
     </body>
 </html>
