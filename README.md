@@ -29,5 +29,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>&nbsp;
         </div>
+        <div id="stat" align="center">
+            <h4>My stat</h4>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayramichAB&theme=default"/>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bayramichAB&theme=default" />
+        </div>
     </body>
 </html>
