@@ -31,8 +31,9 @@
         </div>
         <div id="stat" align="center">
             <h4>My stat</h4>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayramichAB&theme=default"/>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bayramichAB&theme=default" />
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayramichAB&theme=algolia"/>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bayramichAB&theme=algolia" />
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bayramichAB&theme=algolia" />
         </div>
     </body>
 </html>
