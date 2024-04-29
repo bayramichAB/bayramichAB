@@ -12,7 +12,7 @@
         <p>
             <li>:writing_hand: I like writing code</li>
             <li>:books: I am constantly learning new things</li>
-            <li>:bookmark_tabs: Checkout my <a href="cv.pdf"> resume</a></li>
+            <li>:bookmark_tabs: Checkout my <a href="c:\cv.pdf"> resume</a></li>
             <li>:earth_americas: I speak: Turkmen,Russian,English</li>
             <li>Originally from Turkmenistan, now based in Belarus  </li>
         </p>
